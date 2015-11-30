@@ -3,7 +3,7 @@
 Project name:TOURISM WEBSITE
 Project members:Filza romaan,Asfiya nida
 Instructor name:Dr.R.Shriram
-
+College name:B.S.Abdur Rahman University
 ======================================================================
 
    +++ License +++
