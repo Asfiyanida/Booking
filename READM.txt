@@ -11,7 +11,7 @@ College name:B.S.Abdur Rahman University
    Tourism website template is 100% FREE!  We kindly ask you to
    leave the footer links intact. Thank you so much! :)
 
-   
+
 
    +++ INSTALLATION & EDITING +++
 
@@ -28,7 +28,8 @@ STEPS TO OPEN THE WEBSITE IN VISUAL STUDIO:
 3.Right click and view in the web browser
 
 
-
+The project was developed as a part of the curriculum for the course IP lab   
 
 
   
+The project was developed as a part of the curriculum for the course IP lab   
