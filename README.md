@@ -1,41 +1,35 @@
-# Login Form — CSS Code Snippet
+======================================================================
 
-**Demo**: [cssflow.com/snippets/login-form/demo](http://www.cssflow.com/snippets/login-form/demo)
+Project name:TOURISM WEBSITE
+Project members:Filza romaan,Asfiya nida
+Instructor name:Dr.R.Shriram
+College name:B.S.Abdur Rahman University
+======================================================================
 
-Download the latest version of this snippet [here](http://www.cssflow.com/snippets/login-form.zip).
+   +++ License +++
 
-[![Preview](http://cdn.cssflow.com/snippets/login-form/preview-580.png)](http://www.cssflow.com/snippets/login-form)
+   Tourism website template is 100% FREE!  We kindly ask you to
+   leave the footer links intact. Thank you so much! :)
 
-This snippet is implemented with [Sass](https://github.com/nex3/sass).
 
-To compile:
 
-`sass --update scss:css`
+   +++ INSTALLATION & EDITING +++
 
-To compile and watch:
+   - Copy all the files from the 'site' directory to the appropriate (usually 'www' or 'public_html') directory on your hosting. That's it.
+   - This template may be edited with any HTML editor. If you do not know where to get one, you may consider trying NotePad++,visual basic. It can be downloaded at notepad-plus.sourceforge.net and it's free.
 
-`sass --watch scss:css`
 
-## Browser Compatibility
+Your system needs to have an access to the database such a sql server(sql server r2 2008) and visual studio 2010.
 
-Firefox 4+, Safari 4+, Chrome 13+, Opera 10+, Internet Explorer 7+.
+STEPS TO OPEN THE WEBSITE IN VISUAL STUDIO:
 
-## Credits
+1.File->open->website...
+2.Open the attached file (Index.aspx)
+3.Right click and view in the web browser
 
-Coded by [Thibaut Courouble](http://thibaut.me).
 
-Original PSD by [Orman Clark](http://www.premiumpixels.com/freebies/clean-simple-login-form-psd/).
+The project was developed as a part of the curriculum for the course IP lab   
 
-For more snippets, visit [CSSFlow.com](http://www.cssflow.com) or follow [@CSSFlow](https://twitter.com/CSSFlow).
 
-## License
-
-Copyright (c) 2012-2013 Thibaut Courouble
-
-Licensed under the MIT License
-
-## More CSS3
-
-Check out my [UI kits built entirely with CSS](http://www.cssflow.com/ui-kits):
-
-[![Preview](http://cdn.cssflow.com/kits/all_kits_preview_850.png)](http://www.cssflow.com/ui-kits)
+  
+The project was developed as a part of the curriculum for the course IP lab   
